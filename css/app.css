@@ -362,16 +362,16 @@ right:15rem;
 
 
 
-/*.planchette  {
+.planchette  {
     cursor:  auto;
     cursor:  url('img/planchettecursor_rest.svg') 25 50,url('img/planchettecursor_rest.png') 25 50, auto;
-}*/
+}
 
-.planchette  {
+/*.planchette  {
  width:7rem;
  position:absolute;
  z-index:5;
-}
+}*/
 
 html {
   cursor: none;
